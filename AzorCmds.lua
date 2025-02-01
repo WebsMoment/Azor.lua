@@ -1,4 +1,5 @@
-print([[
+pcall(function()
+  print([[
 
    Welcome To Gh-Azor.lua
 	  
