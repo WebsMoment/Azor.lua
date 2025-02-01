@@ -1,5 +1,4 @@
-local function printcmds()
-  print([[
+print([[
 
    Welcome To Gh-Azor.lua
 	  
@@ -229,4 +228,3 @@ local function printcmds()
 
     Use Gh-Azor.lua Today! :)
 ]])
-end
