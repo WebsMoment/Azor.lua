@@ -1,5 +1,5 @@
 pcall(function()
-  print([[
+    print([[
 
    Welcome To Gh-Azor.lua
 	  
@@ -228,4 +228,5 @@ pcall(function()
 	 disabling : put "no" in first ~ exp..(noantijail, noantifreeze)
 
     Use Gh-Azor.lua Today! :)
-]])
+    ]])
+end)
